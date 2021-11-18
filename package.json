@@ -1,7 +1,7 @@
 {
   "name": "yogi",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "A Minimal CSS Component Library",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/snrakshith/yogi.git"
   },
   "keywords": [
-    "css"
+    "Component Library","Yogi","CSS"
   ],
   "author": "Rakshith S N",
   "license": "MIT",
