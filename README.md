@@ -1,3 +1,3 @@
 # Yogi CSS
 
-## A Minimal CSS Component Library
+## A Minimal CSS Component Library..
